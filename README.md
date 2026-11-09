@@ -5,3 +5,10 @@ I want to get back to what I love about the web and that is it's creativity. I'v
 So with the time-off I have been afforded, due to my latest bout of cellulitus I aim to finally get to grips with the differences between traditional css block; css flex; css grid and css flexbox; to name just a few.
 
 Not sure what resources or sources I'll use to aquire the skills / insights, but with a shiney new MacBook Air, I'm not too worried.
+
+## Live reload
+
+1. Install the recommended **Live Server** extension in VS Code.
+2. Right-click `index.html` and select **Open with Live Server**.
+
+The browser will update automatically when you save an HTML or CSS file. Use the Live Server URL it opens rather than opening the file directly.

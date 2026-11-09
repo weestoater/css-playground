@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&family=Tektur:wght@400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f0f0;
+    color: #333;
+    font-family: 'Carlito', Arial, sans-serif;
+    font-size: 100%;
+    padding: 1rem;
+}
+
+
+h1,h2,h3,h4 {
+    font-family: 'Tektur', serif;
+    font-weight: 400;
+}
+header {
+    background: #fff;
+    border-radius: .5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 0 0 1rem;
+    padding: .5rem 1rem;
+}
