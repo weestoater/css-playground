@@ -12,3 +12,7 @@ Not sure what resources or sources I'll use to aquire the skills / insights, but
 2. Right-click `index.html` and select **Open with Live Server**.
 
 The browser will update automatically when you save an HTML or CSS file. Use the Live Server URL it opens rather than opening the file directly.
+
+## Layout learning guide
+
+Start with the [CSS layout comparison](./docs/layout-comparison.md), or browse the [individual layout guides](./docs/README.md) for experiments and questions to explore.
